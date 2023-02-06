@@ -1,0 +1,5 @@
+{
+    "configuration": "cpu=attiny85,clock=external8",
+    "board": "attiny:avr:ATtinyX5",
+    "sketch": "kitchen_dimmer.ino"
+}
